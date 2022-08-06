@@ -1,4 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap");
+
 body {
   font-family: "Inter", sans-serif;
+}
+
+.container {
+  height: 100vh;
+  display: grid;
+
+  align-content: center;
+  justify-content: center;
+
 }
